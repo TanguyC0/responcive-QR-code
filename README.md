@@ -1,0 +1,1 @@
+# responcive-QR-code
